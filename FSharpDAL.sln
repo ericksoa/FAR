@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpDAL", "FSharpDAL\FSharpDAL.fsproj", "{44BF3D3D-1767-4AB0-A6BD-F94AF4F34893}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DALTestDriver", "DALTestDriver\DALTestDriver.fsproj", "{B08584B5-D720-49C9-B1BF-8728219F7D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BF3D3D-1767-4AB0-A6BD-F94AF4F34893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BF3D3D-1767-4AB0-A6BD-F94AF4F34893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BF3D3D-1767-4AB0-A6BD-F94AF4F34893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BF3D3D-1767-4AB0-A6BD-F94AF4F34893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08584B5-D720-49C9-B1BF-8728219F7D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08584B5-D720-49C9-B1BF-8728219F7D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08584B5-D720-49C9-B1BF-8728219F7D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08584B5-D720-49C9-B1BF-8728219F7D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
